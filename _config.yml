@@ -1,7 +1,7 @@
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 #theme: minimal
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
 remote_theme: zivhub/monophase@main
 title: ESM-Tools
