@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 title: ESM-Tools
 description: ESM-Tools
