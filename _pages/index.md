@@ -6,5 +6,7 @@ layout: default
 title: Home
 permalink: /
 ---
-# ![image](../assets/images/47662724.png){: width="50" } Welcome to ESM-Tools!
+# ![image](../assets/images/logo_canvas_fit_to_logo_BlueDots.png)
+
+# Welcome to ESM-Tools!
 
