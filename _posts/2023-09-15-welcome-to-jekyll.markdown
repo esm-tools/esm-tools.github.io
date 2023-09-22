@@ -6,7 +6,7 @@ categories: esm-tools
 ---
 Welcome to ESM-Tools pages. We will update you on any new issues related to ESM-Tools.
 
-Please also have a look at our documentation [esm-tools readthedocs][esm-tools_docs] for visit our Github repository at [ESM-Tool’s GitHub repo][esm-tools_gh].
+Please also have a look at our documentation [esm-tools readthedocs][esm-tools_docs] or visit our Github repository at [ESM-Tool’s GitHub repo][esm-tools_gh].
 
 [esm-tools_docs]: https://esm-tools.readthedocs.io
 [esm-tools_gh]:   https://github.com/esm-tools
